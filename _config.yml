@@ -1,7 +1,7 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
-permalink: /:title/
+title: "Blog Site"
+author: "Noor Fatima"
+description: "Dep Learning"
+permalink: /:Welcome/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Github, icon: github, url: "https://github.com/2025-BSCPE-145/Noor.github.io"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
